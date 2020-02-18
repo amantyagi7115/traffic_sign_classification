@@ -7,3 +7,6 @@ For this project, we are using the public dataset available at Kaggle:
   
 requirements: pip install tensorflow keras sklearn matplotlib pandas pil
 
+output:
+
+![](graphical-user-interface-project-in-python.png)
